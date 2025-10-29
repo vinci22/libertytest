@@ -10,4 +10,4 @@ COPY . .
 ENV PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1
 
 # Default run
-CMD ["python", "my_ecommerce/demo_inventory.py"]
+CMD ["python", "demo_inventory.py"]
